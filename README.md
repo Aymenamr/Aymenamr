@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aymen Amri, a Tunisian Software developer and technical leader with more than 13 years of 
 - experience in designing and programming complex solutions in an international context.
-- 👀 I’m interested in .net technologies and everything related to it : C#, WPF, Web Api starting from the .net framework until the .netcore
-- and also in the security layer of the software (cryptography, PKI, ...)
+- 👀 I’m interested in .net technologies and everything related to it : C#, WPF, Web Api starting from the .net framework until the .netcore and also in the security layer of the software (cryptography, PKI, ...)
 - 🌱 I’m always learning new technologies and standards
 
 <!---
